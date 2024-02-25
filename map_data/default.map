@@ -1,0 +1,50 @@
+﻿#max_provinces = 1466
+definitions = "definition.csv"
+provinces = "provinces.png"
+#positions = "positions.txt"
+rivers = "rivers.png"
+#terrain_definition = "terrain.txt"
+topology = "heightmap.heightmap"
+#tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+#climate = "climate.txt"
+island_region = "island_region.txt"
+seasons = "seasons.txt"
+
+#############
+# SEA ZONES
+#############
+
+sea_zones = RANGE {  }
+
+###############
+# MAJOR RIVERS
+###############
+
+# Yellow River
+river_provinces = LIST {  }
+# Yangtze River
+river_provinces = LIST {  }
+# Pearl River
+river_provinces = LIST {  }
+# Red River
+river_provinces = LIST {  }
+
+########
+# LAKES
+########
+
+
+
+#####################
+# IMPASSABLE TERRAIN
+#####################
+# Can be colored by whoever owns the most of the province's neighbours.
+# Blocks unit movement.
+
+impassable_mountains = RANGE {  }
+
+# IMPASSABLE SEA ZONES
+# These sea provinces cannot be crossed/sailed
+impassable_seas = RANGE {  }
