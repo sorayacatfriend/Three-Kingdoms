@@ -1,0 +1,13 @@
+﻿
+NJominiMap = {
+	WORLD_EXTENTS_X = 4095
+	WORLD_EXTENTS_Y = 51
+	WORLD_EXTENTS_Z = 2559
+	WATERLEVEL = 3.8
+}
+
+NCamera = {
+	START_LOOK_AT = { 2000.0 0 1000.0 }					# Initial look at (X/Y)
+	PANNING_WIDTH =  4096
+	PANNING_HEIGHT = 2560
+}
