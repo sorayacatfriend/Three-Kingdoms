@@ -6,7 +6,7 @@
 	layer="map_table_layer_ce1"
 	entity="ce1_tabletop_entity"
 	count=1
-	transform="5600.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.500000 6.500000 6.500000
+	transform="1800.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.500000 6.500000 6.500000
 "}
 object={
 	name="ce1_tabletop_candles_01"
@@ -16,7 +16,7 @@ object={
 	layer="map_table_layer_ce1"
 	entity="ce1_tabletop_candles_entity"
 	count=1
-	transform="5600.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.500000 6.500000 6.500000
+	transform="1800.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.500000 6.500000 6.500000
 "}
 object={
 	name="ce1_tabletop_cloth"
@@ -26,7 +26,7 @@ object={
 	layer="map_table_layer_ce1"
 	entity="ce1_tabletop_tablecloth_entity"
 	count=1
-	transform="5600.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.500000 6.500000 6.500000
+	transform="1800.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.500000 6.500000 6.500000
 "}
 object={
 	name="ce1_tabletop_floor_01"
@@ -36,7 +36,7 @@ object={
 	layer="map_table_layer_ce1"
 	entity="ce1_tabletop_floor_entity"
 	count=1
-	transform="5600.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.000000 6.000000 6.000000
+	transform="1800.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.000000 6.000000 6.000000
 "}
 object={
 	name="ce1_tabletop_ground_props_01"
@@ -46,7 +46,7 @@ object={
 	layer="map_table_layer_ce1"
 	entity="ce1_tabletop_groundprops_entity"
 	count=1
-	transform="5600.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.000000 6.000000 6.000000
+	transform="1800.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.000000 6.000000 6.000000
 "}
 object={
 	name="ce1_tabletop_props_01"
@@ -56,5 +56,5 @@ object={
 	layer="map_table_layer_ce1"
 	entity="ce1_tabletop_props_entity"
 	count=1
-	transform="5600.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.500000 6.500000 6.500000
+	transform="1800.000000 -1.000000 2548.000000 0.000000 0.000000 0.000000 0.000000 6.500000 6.500000 6.500000
 "}
