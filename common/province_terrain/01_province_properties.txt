@@ -26,11 +26,13 @@
 # WINTER VALUES
 ##################
 
+1 = {
+	winter_severity_bias = 0.0
+}
 
 ##################
 # NORMAL PROVINCES
 ##################
-
 
 
 ############
