@@ -31,7 +31,6 @@ wu = {
   language = language_chinese
   martial_custom = martial_custom_male_only
   traditions = {
-    tradition_maritime_mercantilism
     tradition_dextrous_fishermen
     tradition_warriors_by_merit
     tradition_recognition_of_talent
