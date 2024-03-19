@@ -1,0 +1,57 @@
+liu_bei = {
+  name = "Bei"
+  dynasty = han
+  culture = zhongyuan
+  trait = compassionate
+  trait = just
+  trait = trusting
+  trait = ambitious
+  trait = education_diplomacy_5
+  trait = shrewd
+  trait = loyal
+  161.1.1 = {
+    birth = yes
+  }
+  223.6.10 = {
+    death = yes
+  }
+}
+
+zhang_fei = {
+  name = "Fei"
+  dynasty = zhang_fei
+  culture = zhongyuan
+  trait = impatient
+  trait = just
+  trait = sadistic
+  trait = gregarious
+  trait = education_martial_4
+  trait = reckless
+  trait = drunkard
+  165.1.1 = {
+    birth = yes
+  }
+  221.8.1 = {
+    death = yes
+  }
+}
+
+guan_yu = {
+  name = "Yu"
+  dynasty = guan_yu
+  culture = zhongyuan
+  trait = brave
+  trait = calm
+  trait = stubborn
+  trait = education_martial_5
+  trait = physique_good_3
+  trait = rough_terrain_expert
+  trait = peasant_leader
+  trait = murderer
+  163.1.1 = {
+    birth = yes
+  }
+  220.2.1 = {
+    death = yes
+  }
+}
