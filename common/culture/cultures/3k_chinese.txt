@@ -1,5 +1,5 @@
 zhongyuan = {
-  ethos = ethos_bureaucratic
+  ethos = ethos_ceremonial
   heritage = heritage_huaxia
   language = language_chinese
   martial_custom = martial_custom_male_only
