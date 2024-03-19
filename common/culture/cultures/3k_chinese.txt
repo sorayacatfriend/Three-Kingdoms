@@ -3,6 +3,9 @@ zhongyuan = {
   heritage = heritage_huaxia
   language = language_chinese
   martial_custom = martial_custom_male_only
+  traditions = {
+    tradition_court_eunuchs
+  }
 }
 
 liang = {
@@ -10,6 +13,9 @@ liang = {
   heritage = heritage_huaxia
   language = language_chinese
   martial_custom = martial_custom_male_only
+  traditions = {
+    tradition_horse_breeders
+  }
 }
 
 wu = {
@@ -17,6 +23,10 @@ wu = {
   heritage = heritage_huaxia
   language = language_chinese
   martial_custom = martial_custom_male_only
+  traditions = {
+    tradition_maritime_mercantilism
+    tradition_warriors_by_merit
+  }
 }
 
 chu = {
@@ -24,6 +34,9 @@ chu = {
   heritage = heritage_huaxia
   language = language_chinese
   martial_custom = martial_custom_male_only
+  traditions = {
+    tradition_charismatic
+  }
 }
 
 shu = {
@@ -31,4 +44,8 @@ shu = {
   heritage = heritage_huaxia
   language = language_chinese
   martial_custom = martial_custom_male_only
+  traditions = {
+    tradition_philosopher_culture
+    tradition_mendicant_mystics
+  }
 }
