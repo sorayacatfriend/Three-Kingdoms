@@ -1,1 +1,17 @@
-
+lubu = {
+	name = "Bu"
+	dynasty = lu_bu
+	culture = zhongyuan
+	trait = education_martial_5
+	trait = fickle
+	trait = lustful
+	trait = vengeful
+	trait = strong
+	trait = disloyal 
+	160.1.1 = { ###placeholder, no known birth date
+		birth = yes 
+	} 
+	199.2.7 = {
+		dearh = yes 
+	} 
+} 
