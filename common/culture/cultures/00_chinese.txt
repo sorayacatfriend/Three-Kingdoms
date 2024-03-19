@@ -1,0 +1,34 @@
+zhongyuan = {
+  ethos = ethos_bureaucratic
+  heritage = huaxia
+  language = language_chinese
+  martial_custom = martial_custom_male_only
+}
+
+liang = {
+  ethos = ethos_bellicose
+  heritage = huaxia
+  language = language_chinese
+  martial_custom = martial_custom_male_only
+}
+
+wu = {
+  ethos = ethos_stoic
+  heritage = huaxia
+  language = language_chinese
+  martial_custom = martial_custom_male_only
+}
+
+chu = {
+  ethos = ethos_courtly 
+  heritage = huaxia
+  language = language_chinese
+  martial_custom = martial_custom_male_only
+}
+
+shu = {
+  ethos = ethos_spiritual
+  heritage = huaxia
+  language = language_chinese
+  martial_custom = martial_custom_male_only
+}
