@@ -1,0 +1,24 @@
+mahan = {
+	ethos = ethos_egalitarian
+	heritage = heritage_sanhan
+	language = language_koreanic
+	martial_custom = martial_custom_equal
+}
+
+jinhan = {
+	ethos = ethos_spiritual
+	heritage = heritage_sanhan
+	language = language_koreanic
+	martial_custom = martial_custom_equal
+}
+
+bianhan = {
+	ethos = ethos_inventive
+	heritage = heritage_sanhan
+	language = language_koreanic
+	martial_custom = martial_custom_equal
+  traditions = {
+    tradition_metalworkers
+  }
+}
+
