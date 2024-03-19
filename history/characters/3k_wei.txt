@@ -1,1 +1,75 @@
+cao_cao = {
+  name = "Cao"
+  dynasty = cao_cao
+  culture = zhongyuan
+  trait = cynical
+  trait = paranoid
+  trait = ambitious
+  trait = deceitful
+  trait = education_martial_5
+  trait = intellect_good_2
+  trait = poet
+  trait = organizer
+  trait = murderer
+  155.1.1 = {
+    birth = yes
+  }
+  220.3.15 = {
+    death = yes
+  }
+}
 
+dian_wei = {
+  name = "Wei"
+  dynasty = dian_wei
+  culture = zhongyuan
+  trait = just
+  trait = brave
+  trait = vengeful
+  trait = education_martial_3
+  trait = giant
+  trait = physique_good_2
+  160.1.1 = {
+    birth = yes 
+  }
+  197.1.1 = {
+    death = yes
+  }
+}
+
+xiahou_dun = {
+  name = "Dun"
+  dynasty = xiahou
+  trait = zealous
+  trait = brave
+  trait = arrogant
+  trait = martial_education_4
+  trait = flexible_leader
+  trait = reckless
+  160.1.1 = {
+    birth = yes
+  }
+  220.6.13 = { 
+    death = yes
+  } 
+}
+  
+
+guo_jia = { # won't serve Wei until much later but vanity character ok
+  name = "Jia"
+  dynasty = guo_jia
+  culture = zhongyuan
+  trait = honest
+  trait = calm
+  trait = patient
+  trait = education_learning_5
+  trait = intellect_good_3
+  trait = physique_bad_1
+  trait = shrewd
+  170.1.1 = {
+    birth = yes
+  }
+  207.10.1 = {
+    death = yes
+  }
+}
