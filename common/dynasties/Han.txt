@@ -1,0 +1,5 @@
+lu_bu {
+	name = "dynn_Lu"
+  culture = zhongyuan
+  motto = dynn_lu_bu_motto
+} 
