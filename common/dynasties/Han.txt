@@ -9,3 +9,51 @@ dong_zhuo {
 	culture = liang
 	motto = dynn_dong_motto
 }
+
+han {
+  name = "dynn_Liu"
+  culture = zhongyuan
+  motto = dynn_han_motto
+}
+
+cao_cao {
+  name = "dynn_Cao"
+  culture = zhongyuan
+}
+
+dian_wei {
+  name = "dynn_Dian"
+  culture = zhongyuan
+}
+
+xiahou {
+  name = "dynn_Xiahou"
+  culture = zhongyuan
+}
+
+guan_yu {
+  name = "dynn_Guan"
+  culture = zhongyuan
+}
+
+zhang_fei {
+  name = "dynn_Zhang"
+  culture = zhongyuan
+}
+
+guo_jia {
+  name = "dynn_Guo"
+  culture = zhongyuan
+}
+
+sun {
+  name = "dynn_Sun"
+  culture = wu
+  motto = dynn_sun_motto
+}
+
+ma_teng {
+  name = "dynn_Ma"
+  culture = liang
+}
+
