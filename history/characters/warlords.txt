@@ -15,3 +15,20 @@ lubu = {
 		death = yes 
 	} 
 } 
+
+dongzhuo = {
+	name = "Zhuo"
+	dynasty = dong_zhuo
+	culture = liang
+	trait = education_martial_3
+	trait = craven
+	trait = lustful
+	trait = gluttonous
+	trait = ambitious
+	141.1.1 = { ####placeholder
+		birth = yes
+	}
+	192.5.22 = { 
+		death = yes
+	}
+} 
