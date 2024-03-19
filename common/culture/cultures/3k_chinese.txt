@@ -5,6 +5,7 @@ zhongyuan = {
   martial_custom = martial_custom_male_only
   traditions = {
     tradition_court_eunuchs
+    tradition_recognition_of_talent
   }
 }
 
@@ -26,6 +27,8 @@ wu = {
   traditions = {
     tradition_maritime_mercantilism
     tradition_warriors_by_merit
+    tradition_recognition_of_talent
+    tradition_court_eunuchs
   }
 }
 
