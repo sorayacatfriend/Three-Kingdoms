@@ -12,6 +12,6 @@ lubu = {
 		birth = yes 
 	} 
 	199.2.7 = {
-		dearh = yes 
+		death = yes 
 	} 
 } 
