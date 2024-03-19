@@ -6,6 +6,9 @@ zhongyuan = {
   traditions = {
     tradition_court_eunuchs
     tradition_recognition_of_talent
+    tradition_mythical_ancestors
+    tradition_agrarian
+    tradition_culinary_artists
   }
 }
 
@@ -16,6 +19,9 @@ liang = {
   martial_custom = martial_custom_male_only
   traditions = {
     tradition_horse_breeders
+    tradition_recognition_of_talent
+    tradition_xenophilic
+    tradition_noble_adoption
   }
 }
 
@@ -26,9 +32,11 @@ wu = {
   martial_custom = martial_custom_male_only
   traditions = {
     tradition_maritime_mercantilism
+    tradition_dextrous_fishermen
     tradition_warriors_by_merit
     tradition_recognition_of_talent
     tradition_court_eunuchs
+    tradition_mystical_ancestors
   }
 }
 
@@ -39,6 +47,10 @@ chu = {
   martial_custom = martial_custom_male_only
   traditions = {
     tradition_charismatic
+    tradition_castle_keepers
+    tradition_recognition_of_talent
+    tradition_court_eunuchs
+    tradition_mystical_ancestors
   }
 }
 
@@ -50,5 +62,8 @@ shu = {
   traditions = {
     tradition_philosopher_culture
     tradition_mendicant_mystics
+    tradition_recognition_of_talent
+    tradition_xenophilic
+    tradition_hill_dwellers
   }
 }
