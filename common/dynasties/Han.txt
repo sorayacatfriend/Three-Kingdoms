@@ -3,3 +3,9 @@ lu_bu {
   culture = zhongyuan
   motto = dynn_lu_bu_motto
 } 
+
+dong_zhuo {
+	name = "dynn_Dong"
+	culture = liang
+	motto = dynn_dong_motto
+}
